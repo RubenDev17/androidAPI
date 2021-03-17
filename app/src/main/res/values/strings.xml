@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MiLugarFavorito</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="textview1">Para modificar el evento realiza las siguientes instrucciones</string>
+    <string name="textview2">Modifique el título del evento</string>
+    <string name="textview3">Modifique el lugar del evento</string>
+    <string name="boton1">Añadir evento</string>
+    <string name="boton2">Añadir lugar</string>
+
+</resources>
